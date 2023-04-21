@@ -21,7 +21,7 @@ Cuando conecte su cuenta, vea un análisis de los costes de la tecnología cloud
 == Ver un análisis de costes
 
 .Pasos
-. Haga clic en *calcular*.
+. Haz clic en *Extensiones > Operaciones de nube*.
 . Consulte el análisis de costes para obtener información sobre los costes informáticos.
 
 

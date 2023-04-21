@@ -5,7 +5,6 @@
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp ofrece soporte para BlueXP y sus servicios cloud de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opciones están disponibles de forma gratuita, las 24 horas del día, los 7 días de la semana:</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de conocimientos</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Busque en la base de conocimientos de BlueXP para encontrar artículos útiles para resolver problemas.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunidades</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -45,7 +44,6 @@
   <block id="2a4220102e5972b56988182c09f604aa" category="doc">Analice sus costes informáticos</block>
   <block id="cbd3f934260df2829bad2ed4e0f06fd9" category="paragraph">Cuando conecte su cuenta, vea un análisis de los costes de la tecnología cloud para obtener información sobre los costes del cloud pasados, actuales y futuros.</block>
   <block id="135dc5daa0877864eea105ddf0b69fac" category="section-title">Ver un análisis de costes</block>
-  <block id="83457133a0ef330b6cf07b6b359318bf" category="list-text">Haga clic en *calcular*.</block>
   <block id="75f0eecd0fdb097a7d4b1e2f8e514d51" category="list-text">Consulte el análisis de costes para obtener información sobre los costes informáticos.</block>
   <block id="605bcddd6e3aa6a95eaced2f52a139b0" category="inline-image-macro">Captura de pantalla que muestra la página Análisis de costes en BlueXP. Esta página incluye la información descrita en el texto siguiente.</block>
   <block id="a878c57286792575efcb3c7b7e558681" category="paragraph"><block ref="a878c57286792575efcb3c7b7e558681" category="inline-image-macro-rx" type="image"></block></block>
@@ -76,10 +74,8 @@
   <block id="17dd96462b10711049d52dedde6ddc2b" category="inline-link">Consulte la documentación de Spot para obtener ayuda sobre el uso de Cloud Analizador</block>
   <block id="745d17f34ad4743fc8506242741c7c95" category="list-text"><block ref="745d17f34ad4743fc8506242741c7c95" category="inline-link-rx"></block></block>
   <block id="0ed85f3e49fbdcacf7c6eafed5fe4b1d" category="summary">Al aprovechar el servicio Cloud Analyzer de Spot, BlueXP puede proporcionar un análisis de costes de alto nivel de su gasto en tecnología cloud e identificar ahorros potenciales.</block>
-  <block id="dc512bfecf857e8dee6ac30c7a237a2f" category="doc">Obtenga más información sobre el servicio de computación</block>
   <block id="ea197bae82effb87bc75fbe595602d2b" category="inline-link">Servicio spot's Cloud Analyzer</block>
   <block id="6ff9a94254ce4f01bfba1bf618b4a71c" category="paragraph">Aprovechando<block ref="4b96c8339310a566633babc222b55825" category="inline-link-rx"></block>, BlueXP puede ofrecerle un análisis de costes de alto nivel de sus gastos en computación en nube e identificar ahorros potenciales.</block>
-  <block id="3fb7a38542fc8dc9bd67775c1efa0754" category="paragraph">Cloud Analyzer es una solución de gestión de infraestructura de cloud que utiliza análisis avanzados para ofrecer visibilidad e información acerca de los costes del cloud. Le muestra dónde puede optimizar esos costos y le permite implementar esa optimización con la cartera de productos de optimización continua de Spot en tan solo unos clics.</block>
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">Funciones</block>
   <block id="b13786f788868ed1bede397373dc9471" category="list-text">Un análisis de costes que muestra el coste actual del mes, los costes mensuales proyectados y los ahorros perdidos</block>
   <block id="22940f2df588dbac7740199a7b1c8cc9" category="list-text">Vista de la eficiencia del gasto por cuenta, incluido el ahorro adicional estimado</block>
@@ -90,13 +86,11 @@
   <block id="442a1ebc0b1897741c68b149d0cff869" category="paragraph">No hay costo para usar este servicio a través de BlueXP.</block>
   <block id="7729b44167439e24787c999afabf9b49" category="section-title">Cómo funciona Cloud Analyzer con BlueXP</block>
   <block id="da4f6f67f2d6874fa25ae3476a15be79" category="paragraph">La integración de Cloud Analyzer con BlueXP de alto nivel funciona de la siguiente manera:</block>
-  <block id="1fdce7e9a0a4116c0c33b13e949d0e94" category="list-text">Haga clic en *Compute* y conecte su cuenta de administración de AWS.</block>
   <block id="375b86c47403de1db7caffdd4c5ddfe6" category="list-text">NetApp configura su entorno de la siguiente manera:</block>
   <block id="c3c918d3946255bf9b03b6e74b5b3f36" category="list-text">Crea una organización en la plataforma Spot.</block>
   <block id="160fee406155d1c4308599be28a10850" category="list-text">Envía un correo electrónico de bienvenida a Spot.</block>
   <block id="3a8d3e2363f0495ab293d54bebc7e4dd" category="paragraph">Puede iniciar sesión en el servicio Spot utilizando las mismas credenciales de inicio de sesión único que utiliza con BlueXP.</block>
   <block id="d68a9d5829a20c130e867fef2a4695c6" category="list-text">Cloud Analyzer comienza a procesar los datos de sus cuentas de AWS.</block>
-  <block id="fea17a3edb0c3ee07348be9d64fa874a" category="list-text">En BlueXP, la página Compute se actualiza y usa la información para obtener información sobre los costes pasados, actuales y futuros del cloud.</block>
   <block id="d324de754d17bd272e8971296440d6f6" category="list-text">Haga clic en *obtener análisis completo* en cualquier momento para ir a Spot's Cloud Analyzer, que ofrece un análisis completo de su gasto en nube y oportunidades de ahorro.</block>
   <block id="4c5d94eb4dc4bff93f6a96a08ab7b244" category="section-title">Seguridad de datos</block>
   <block id="927d8afbddd6abdbda7791916303bd5e" category="paragraph">Los datos de Cloud Analyzer están cifrados en reposo y no se almacenan credenciales para ninguna cuenta.</block>
@@ -114,8 +108,6 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Código abierto</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Los archivos de notificación proporcionan información sobre los derechos de autor y las licencias de terceros que se utilizan en software de NetApp.</block>
-  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">Aviso para BlueXP 3.9</block>
-  <block id="03f975e839e4278228720a5d19656288" category="paragraph"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
   <block id="26e6e5fcbea5f9f1e96a87e1f4727945" category="summary">Complete algunos pasos para obtener un análisis en profundidad de los costes de la tecnología cloud de Spot Cloud Analyzer.</block>
   <block id="0a17377f2d00cfdc489595aab3f4cb1a" category="doc">Conecte Cloud Analyzer a su cuenta de AWS</block>
   <block id="9e117c9326e0082792fc9db4022de033" category="paragraph">Conecte Cloud Analyzer a su cuenta de pagadores de AWS para que pueda empezar a optimizar sus costes de tecnología del cloud.</block>
@@ -133,9 +125,6 @@
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Resultado</block>
   <block id="c89159332a937ddbad2a51dd14e5c43d" category="inline-link-macro">analice sus costes informáticos</block>
   <block id="d22c459c62854d20003f9895eea37a89" category="paragraph">Cloud Analyzer comienza a procesar los datos de sus cuentas de AWS. Si tiene varias cuentas, Cloud Analyzer comienza con funcionalidades de solo lectura para todas las cuentas vinculadas de la cuenta de administración. Si desea obtener más información sobre el ahorro potencial de esas cuentas, tendrá que conectarlos también. Encontrará más información sobre cómo conectar cuentas cuando lo desee <block ref="3073dfe60a6ccd32fe5c511a4c14196f" category="inline-link-macro-rx"></block>.</block>
-  <block id="acb1895ec4c887192c38fae22446be51" category="summary">Visualice un análisis de costes de su inversión en tecnología cloud e identifique los posibles ahorros con BlueXP (anteriormente Cloud Manager).</block>
-  <block id="1c87777fc8577c23e4c3acf6e05c6e76" category="doc">Documentación de computación</block>
-  <block id="77c0115810e9ed3bfd3337acc96198fd" category="summary">Descubra las novedades del servicio informático de BlueXP (anteriormente Cloud Manager).</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Lo nuevo</block>
   <block id="7ee45649520b61796809750e472a8000" category="section-title">7 de diciembre de 2020</block>
   <block id="9dc245f64def9d62941e9ee3f4af4adb" category="section-title">Navegación entre Cloud Manager y Spot</block>
@@ -219,12 +208,10 @@
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Asegúrese de copiar el número de serie de la cuenta (960xxxx) utilizado anteriormente para el campo de número de serie. Esto agilizará el procesamiento de la cuenta.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp debería ponerse en contacto con usted durante este proceso. Este es un ejercicio de incorporación puntual para nuevos usuarios.</block>
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">Una vez que tenga su cuenta de la página de soporte de NetApp, podrá navegar a BlueXP para añadir esta cuenta de NSS para futuros registros.</block>
-  <block id="fc9195dd2727e87e1a0e146782847649" category="sidebar">Documentos informáticos</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de la versión</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
   <block id="39b47babddc2784c0d74d47260b51730" category="sidebar">Conecte su cuenta de AWS</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conocimiento y apoyo</block>
-  <block id="3333dce1554e82e74322ec5666134c71" category="sidebar">Utilice el servicio Compute</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs y comunidad</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Comunidad de NetApp</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">Blog de BlueXP</block>
@@ -275,4 +262,17 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Se trata de un ID generado por el sistema que se asigna a su correo electrónico. En la página *NSS Management*, puede mostrar su correo electrónico desde <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Si alguna vez necesita actualizar sus tokens de credenciales de inicio de sesión, también hay una opción *Actualizar credenciales* en la <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Con esta opción se le solicita que vuelva a iniciar sesión. Tenga en cuenta que el token de estas cuentas caduca después de 90 días. Se enviará una notificación para avisarle de ello.</block>
+  <block id="c760999778e3f9fd0e0688bdde1d1291" category="list-text">Haz clic en *Extensiones &gt; Operaciones de nube*.</block>
+  <block id="c89902de22e38dc537fc0ceae8ac9bf3" category="summary">Consulta un análisis de costes de tu gasto de computación en la nube e identifica claramente los posibles ahorros con BlueXP.</block>
+  <block id="b54b9d75f69467d65862b2ee5b79fe70" category="doc">Documentación de las operaciones del cloud de BlueXP</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="42f86b3ffab4eb4b08ad9639ec6d721d" category="summary">Descubre las novedades de las operaciones de nube de BlueXP.</block>
+  <block id="dd335c23d7ed4d65e69465f4891a50cb" category="doc">Más información sobre las operaciones de la nube de BlueXP</block>
+  <block id="a1ff0729c54ef4b0c64a2dc4f6b6c7f7" category="paragraph">Cloud Analyzer es una solución de gestión de infraestructura de cloud que utiliza análisis avanzados para ofrecer visibilidad e información acerca de los costes del cloud. Le muestra dónde puede optimizar esos costes y le permite implementar esa optimización utilizando la cartera de productos de optimización continua de Spot en tan solo unos clics.</block>
+  <block id="06193cf65f29a0243e8f353665b4a2dd" category="list-text">Haga clic en *Extensiones &gt; Operaciones en la nube* y conecte su cuenta de administración de AWS.</block>
+  <block id="dc5847ea8043d8fb75c62a9f7c5b5524" category="list-text">En BlueXP, la página de operaciones del cloud se actualiza y utilizará la información para obtener información sobre los costes pasados, actuales y futuros del cloud.</block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Aviso para BlueXP</block>
+  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
+  <block id="47d92e57191853864564085dd2a3b861" category="sidebar">Documentos de operaciones de cloud de BlueXP</block>
+  <block id="1032c52469c9cc970e54549326a7172d" category="sidebar">Utiliza las operaciones de nube de BlueXP</block>
 </blocks>
