@@ -38,6 +38,6 @@ Una nueva sección de *Operaciones de almacenamiento* en Spot le permite navegar
 
 Aprovechando https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer"^], Cloud Manager ahora puede proporcionar un análisis de costes de alto nivel de su gasto en informática en la nube e identificar ahorros potenciales. Esta información está disponible en el servicio *Compute* de Cloud Manager.
 
-https://docs.netapp.com/us-en/cloud-manager-compute/concept-compute.html["Obtenga más información sobre el servicio de computación"].
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["Obtenga más información sobre el servicio de computación"].
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/media/screenshot_compute_dashboard.gif["Captura de pantalla que muestra la página Análisis de costes en Cloud Manager"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Captura de pantalla que muestra la página Análisis de costes en Cloud Manager"]
