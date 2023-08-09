@@ -26,7 +26,7 @@ Conecte Cloud Analyzer a su cuenta de pagadores de AWS para que pueda empezar a 
 .. Ejecute la plantilla CloudFormation.
 .. Pegue el RoleARN del punto.
 +
-https://help.spot.io/cloud-analyzer/connect-your-aws-account-2/["Vea más detalles sobre estos pasos"^].
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["Vea más detalles sobre estos pasos"^].
 
 +
 image:screenshot_compute_add_account.gif["Captura de pantalla que muestra cada campo disponible en la página de conexión."]
