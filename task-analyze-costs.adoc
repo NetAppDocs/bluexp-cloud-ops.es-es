@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-analyze-costs.html 
 keywords: analyze costs, compute costs, projected costs, savings, cloud analyzer 
-summary: Cuando conecte su cuenta, vea un análisis de los costes de la tecnología del cloud para obtener información sobre los costes del cloud pasados, actuales y futuros. 
+summary: Cuando conectes tu cuenta, puedes ver un análisis de costes directamente en BlueXP y, a continuación, hacer clic en un enlace para obtener un análisis completo de Cloud Analyzer. 
 ---
 = Analice sus costes informáticos
 :hardbreaks:
@@ -14,11 +14,13 @@ summary: Cuando conecte su cuenta, vea un análisis de los costes de la tecnolog
 
 
 [role="lead"]
-Cuando conecte su cuenta, vea un análisis de los costes de la tecnología cloud para obtener información sobre los costes del cloud pasados, actuales y futuros.
+Cuando conectes tu cuenta, puedes ver un análisis de costes directamente en BlueXP y, a continuación, hacer clic en un enlace para obtener un análisis completo de Cloud Analyzer.
 
 
 
 == Ver un análisis de costes
+
+Vea un análisis de los costes de computación en el cloud para obtener información sobre los costes del cloud pasados, actuales y futuros.
 
 .Pasos
 . Haz clic en *Extensiones > Operaciones de nube*.
