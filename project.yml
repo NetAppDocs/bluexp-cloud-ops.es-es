@@ -33,26 +33,6 @@ sidebar:
       url: "/task-get-help.html"
   - title: Avisos legales
     url: "/legal-notices.html"
-homepage:
-  tiles:
-  - title: Manos a la obra
-    links:
-    - title: Más información sobre las operaciones de la nube de BlueXP
-      url: concept-compute.html
-    - title: Conecte su cuenta de AWS
-      url: task-getting-started-compute.html
-  - title: Utiliza las operaciones de nube de BlueXP
-    links:
-    - title: Analice sus costes informáticos
-      url: task-analyze-costs.html
-  - title: Blogs y comunidad
-    links:
-    - title: Comunidad de NetApp
-      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: Blog de BlueXP
-      url: https://cloud.netapp.com/blog
-    - title: Seminarios web sobre el cloud
-      url: https://cloud.netapp.com/events
 product-family:
   name: BlueXP
   repo: bluexp-family
