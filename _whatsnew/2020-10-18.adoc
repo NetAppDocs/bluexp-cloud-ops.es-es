@@ -1,0 +1,13 @@
+= Presentamos el servicio de computación
+:allow-uri-read: 
+
+
+
+
+=== Presentamos el servicio de computación
+
+Aprovechando https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer"^], Cloud Manager ahora puede proporcionar un análisis de costes de alto nivel de su gasto en informática en la nube e identificar ahorros potenciales. Esta información está disponible en el servicio *Compute* de Cloud Manager.
+
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["Obtenga más información sobre el servicio de computación"].
+
+image:screenshot_compute_dashboard.gif["Captura de pantalla que muestra la página Análisis de costes en Cloud Manager"]
